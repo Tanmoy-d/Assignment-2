@@ -1,3 +1,94 @@
-.logo-img{
-    width: 100%;
+body h1,h2,h3,h4,h5,h6,p,span,a{
+    font-family: 'Signika', sans-serif;
 }
+h2{
+    font-weight: 800;
+    font-size:50px ;
+}
+.logo-img{
+    width: 60%;
+    
+}
+header{
+    background: #FFFBF0;
+    height:100vh;
+}
+.title-heading h1 {
+    font-weight:800;
+    font-size: 70px;
+    line-height: 60px;
+
+}
+h1 span{
+    
+    color: #FABE4C;
+}
+.nav-items li a{
+    margin-right: 30px;
+   
+}
+.title-heading p{
+    width: 420px;
+    font-size: 20px;
+}
+.sale-btn{
+    width: 180px;
+    height: 65px;
+    font-size: 20px;
+    border-radius: 8px;
+    font-weight: 600;
+}
+.sale-btn i{
+    margin-right:15px ;
+}
+.cloth-items{
+    border-radius:10px;
+    border: none;
+
+}
+.image-card{
+    max-width: 70%;
+    margin:auto;
+    margin-top: 20px;
+   
+}
+.image-card img{
+    max-height: 320px;
+    background-color: #ddd;
+    margin-top: 5px;
+    padding: 40px;
+    border-radius: 8px;
+}
+.SeekPng-img{
+    height: 400px;
+}
+.sale-footer{
+    border: none;
+    background-color: white;
+}
+.info-aria img{
+    width: 100%;
+    padding: 15px;
+
+}
+.delivery-aria{
+    margin-top: 80px;
+}
+.info-aria{
+    border: none;
+    margin-top:10px;
+    background-color: yellowgreen;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+.delivery-sale{
+    width: 100%;
+
+}
+
+
